@@ -63,6 +63,7 @@ void Error_Handler(void);
 #define CS_Pin GPIO_PIN_0
 #define CS_GPIO_Port GPIOB
 
+#define SD_SPI_HANDLE hspi1
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
