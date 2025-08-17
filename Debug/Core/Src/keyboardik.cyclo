@@ -1,0 +1,7 @@
+../Core/Src/keyboardik.c:6:6:send_key	1
+../Core/Src/keyboardik.c:16:6:hold_key	1
+../Core/Src/keyboardik.c:22:6:release_key	1
+../Core/Src/keyboardik.c:28:6:send_key_with_modifier	1
+../Core/Src/keyboardik.c:40:6:send_command	3
+../Core/Src/keyboardik.c:53:19:get_hid_code	26
+../Core/Src/keyboardik.c:108:6:open_cmd	1

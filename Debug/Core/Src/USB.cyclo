@@ -1,0 +1,3 @@
+../Core/Src/USB.c:12:9:get_modifier_flag	5
+../Core/Src/USB.c:23:6:parse_and_execute	14
+../Core/Src/USB.c:66:6:execute_script	10
